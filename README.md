@@ -21,14 +21,6 @@
 
 ###
 
-<h3 align="left">Funcionalidades principais:</h3>
-
-###
-
-<p align="left">- Planejamento de projetos: criação de etapas e prazos para cada fase do projeto.<br><br>- Acompanhamento de progresso: visualização do andamento das atividades.<br><br>- Organização de tarefas: possibilidade de dividir as responsabilidades entre membros da equipe.</p>
-
-###
-
 <h3 align="left">Tecnologias utilizadas:</h3>
 
 ###
