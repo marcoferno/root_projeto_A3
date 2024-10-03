@@ -1,5 +1,7 @@
 <h1 align="left">PDGP - Portal de Gestão de Projetos</h1>
 
+![PDGP LOGO](https://github.com/user-attachments/assets/fb0fb853-eff4-45e3-9060-6254a22052c6)
+
 ###
 <p align="left"> Link do site: https://pdgp.vercel.app/index.html</p>
   
